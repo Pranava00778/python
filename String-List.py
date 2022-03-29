@@ -15,7 +15,10 @@ strMedicineList.sort()
 print(strMedicineList)
 strMedicineList.insert(3,"Gal B Tone")
 print(strMedicineList)
+del(strMedicineList[8])
 
 # Joining Lists
 strListAll = [strGroceryList , strMedicineList]
 print(strListAll)
+gameslist=["apex legend',callofduty warzone',spiderman',miles morales',horizon2',cold war"]
+print(gameslist)
