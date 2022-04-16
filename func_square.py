@@ -2,8 +2,10 @@ import turtle
 t = turtle.Pen()
 
 def mySquare(size):
-    for i in range
-    888888111111111111111111111!~````````````
+    for i in range(1,5):
+        t.forward(size)
+        t.left(90)
+
 t.reset()
 
 #mySquare(50)

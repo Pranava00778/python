@@ -7,3 +7,6 @@ else :
         print("You are an adult")
     else:
         print("YOu are an old man")
+
+
+
